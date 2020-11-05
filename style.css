@@ -1,0 +1,55 @@
+#test {
+    background-color: yellowgreen;
+    color:red;
+    text-align:center;
+    border:3px solid red; 
+    font-size:100%;
+    font-family:"Times New Roman", serif;
+    font-weight:bold;
+}
+ 
+pre {
+    text-align:center;
+    color:black;
+    text-decoration:underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid;    
+}
+img {
+    Border-radius: 50%;
+    border:10px solid gray;
+}
+
+ 
+
+#div {
+    border:2px solid;
+    border-color: black;
+}
+
+ 
+
+#skills{
+    color:black;
+    font-weight:bold;
+    text-decoration:overline;
+    font-size:100%;
+    font-family:"Times New Roman";
+    text-align:center;
+}
+
+ 
+
+p {
+    font-weight:bold;
+    text-align:center;
+    font-family:"Times New Roman";
+    border-color: blue;
+}
+h3 {
+    border:2px solid gray;
+    color:gray;
+    font-weight:bold;
+    font-size:100%;
+    font-family:"Times New Roman";
+}
